@@ -5,8 +5,8 @@
 
 ![Occupation du sol 2013 vs 2025](figures/06_lulc_2013_vs_2025.png)
 
-**Master 1 Géomatique et modélisation spatiale (GMS)**, Aix-Marseille Université · 2025-2026
-**Travail de groupe** : M. Gueye, A. Bakhoum, A. E. Soukou · Rapport en anglais
+**Master 1 Géomatique et modélisation spatiale (GMS)**, Aix-Marseille Université | 2025-2026
+**Travail de groupe** : M. Gueye, A. Bakhoum, A. E. Soukou | Rapport en anglais
 Exercice individuel complémentaire sous TerrSet (LCM, HBM, ETM)
 
 ---
@@ -66,7 +66,7 @@ Exercice individuel complémentaire sous TerrSet (LCM, HBM, ETM)
 |---|---|---|
 | ![](figures/04_kanopus_v_lulc.png) | ![](figures/05_urban_atlas.png) | ![](figures/03_landsat8_vs_corine.png) |
 
-| Gains et pertes du bâti (LCM) | Tendance végétation → bâti | Dynamique paysagère (HBM) |
+| Gains et pertes du bâti (LCM) | Tendance végétation vers bâti | Dynamique paysagère (HBM) |
 |---|---|---|
 | ![](figures/07_terrset_gains_pertes_bati.png) | ![](figures/10_tendance_cubique_vegetation_vers_bati.png) | ![](figures/11_dynamique_paysagere_hbm.png) |
 
@@ -80,15 +80,13 @@ Une carte interactive (Leaflet, export qgis2web) superpose les occupations du so
 
 ## Outils
 
-`TerrSet` (LCM, HBM, ETM) · `ENVI` · `QGIS` · `qgis2web` (Leaflet) · Random Forest · SVM · GEOBIA
+`TerrSet` (LCM, HBM, ETM) | `ENVI` | `QGIS` | `qgis2web` (Leaflet) | Random Forest | SVM | GEOBIA
 
 ## Contenu du dépôt
 
-```
-├── figures/   méthodologie, cartes par capteur, changements, TerrSet
-└── rapport/   rapport de groupe (PDF, 40 p.) et exercice TerrSet individuel (PDF)
-```
+- `figures/` : méthodologie, cartes par capteur, changements, TerrSet
+- `rapport/` : rapport de groupe (PDF, 40 p.) et exercice TerrSet individuel (PDF)
 
 ---
 
-**Auteur :** Ezechiel Agbewanou SOUKOU, géomaticien-urbaniste · [LinkedIn](https://www.linkedin.com/in/ezechiel-soukou) · [Autres projets](https://github.com/ezekielofficiel7-spec)
+**Auteur :** Ezechiel Agbewanou SOUKOU, géomaticien-urbaniste | [LinkedIn](https://www.linkedin.com/in/ezechiel-soukou) | [Autres projets](https://github.com/ezekielofficiel7-spec)
